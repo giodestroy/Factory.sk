@@ -1,0 +1,86 @@
+#dev by Giodestroy
+command /dog:
+	trigger:
+		send "&c&lThis will be ur best friend" to player
+		summon 1 wolf
+		give player 1 nametag
+		give player 10 bone
+		
+command /cow:
+	trigger:
+		send "&a&lThose are the start thing to create a cow farm" to player
+		summon 1 cow
+		give player 2 hay block
+		
+command /chicken:
+	trigger:
+		send "&e&lYummy there's how to create a chicken farm!" to player
+		summon 1 Chicken
+		give player 20 seed
+		
+command /horse:
+	trigger:
+		send "&b&lThis is ur emh car?? btw have fun whit him"
+		summon 1 horse
+		give player 1 saddle
+		
+command /dolphin:
+	trigger:
+		send "&6&lWowwwww our frist sea animal!!" to player
+		summon 1 dolphin
+		
+command /parrot:
+	trigger:
+		send "&d&lWOWOWOWOWOWOWOWOWWOWOW a fly animal i haven't see parrots in a while have fun whit it!!!" to player
+		summon 1 parrot
+		give player 20 seed
+		give player 1 cookie named "&c&lPLEASE DONT DO IT"
+		
+command /sheep:
+	trigger:
+		send "&a&loh cmon a sheep who wants a sheep in 2023" to player
+		summon 1 sheep
+		give player 2 hay block
+		give player 1 Shears named "&c&lSheep scarer 3000"
+		
+command /panda:
+	trigger:
+		send "&d&lPanda lesss gooooo" to player
+		summon 1 panda
+		give player 30 bamboo
+		
+command /axolotl:
+	trigger:
+		send "&c&ldo u like axolotl they are my favorite animals!!!" to player
+		summon 1 axolotl
+		give player 1 water bucket
+		
+command /blueaxolotl:
+	trigger:
+		send "&c&lOne of the rarest animals!!!" to player
+		summon 1 blue axolotl
+		give player 1 water bucket
+		
+command /brownpanda:
+	trigger:
+		send "&c&lO M G BROWN PANDAAAAAAAAAA"
+		summon 1 brown panda
+		give player 1 nametag named "&c&lI LOVE PANDA"
+		
+command /cat:
+	trigger:
+		send "&d&lI LOVE CATS TO I WANT ALL OF THIS ANIMALS" to player
+		summon 1 cat
+		
+command /Ocelot:
+	trigger:
+		send "&c&lI am scared of ocelot :(" to player
+		summon 1 Ocelot
+		
+command /pinksheep:
+	trigger:
+		send "&d&lAnother rare animals"
+		summon 1 pink sheep
+		
+		
+#Lookingdev on top
